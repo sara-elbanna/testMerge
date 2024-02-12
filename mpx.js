@@ -1,1 +1,2 @@
-const mpx = '3'
+const mpx = 'new value'
+const mpnew = '77'
